@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/adhyang194-glau/leetcode/tree/master/3467-transform-array-by-parity) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adhyang194-glau/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/adhyang194-glau/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
