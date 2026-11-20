@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/adhyang194-glau/leetcode/tree/master/0022-generate-parentheses) |
+| [0844-backspace-string-compare](https://github.com/adhyang194-glau/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adhyang194-glau/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adhyang194-glau/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/adhyang194-glau/leetcode/tree/master/3174-clear-digits) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/adhyang194-glau/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/adhyang194-glau/leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/adhyang194-glau/leetcode/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adhyang194-glau/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3174-clear-digits](https://github.com/adhyang194-glau/leetcode/tree/master/3174-clear-digits) |
 ## Stack
@@ -59,6 +61,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/adhyang194-glau/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/adhyang194-glau/leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/adhyang194-glau/leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adhyang194-glau/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3174-clear-digits](https://github.com/adhyang194-glau/leetcode/tree/master/3174-clear-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/adhyang194-glau/leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
