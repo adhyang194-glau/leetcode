@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/adhyang194-glau/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0682-baseball-game](https://github.com/adhyang194-glau/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/adhyang194-glau/leetcode/tree/master/0735-asteroid-collision) |
 | [3467-transform-array-by-parity](https://github.com/adhyang194-glau/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Math
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/adhyang194-glau/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/adhyang194-glau/leetcode/tree/master/0735-asteroid-collision) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/adhyang194-glau/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/adhyang194-glau/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/adhyang194-glau/leetcode/tree/master/0735-asteroid-collision) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/adhyang194-glau/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
